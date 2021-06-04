@@ -1,2 +1,2 @@
-# OwToolBot-main-Token
+# OwToolBot-main-Token.py
 Nuke token
